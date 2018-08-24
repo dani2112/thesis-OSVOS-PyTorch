@@ -9,6 +9,7 @@ runs/*
 params.py
 *.mat
 *.txt
+*.png
 cluster/script.sh
 cluster/train_parent.sh
 experiments/
